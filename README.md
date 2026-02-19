@@ -1,7 +1,7 @@
 
 
 <b>George Stander</b><br/>
-Product guy who ships · UX-first · RedwoodSDK + Cloudflare · TypeScript
+Product guy · UX-first · RedwoodSDK + Cloudflare · TypeScript
 
 </div>
 
