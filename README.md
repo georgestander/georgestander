@@ -34,24 +34,12 @@ Product guy who ships · UX-first · RedwoodSDK + Cloudflare · TypeScript
 
 ---
 
-
-
 **UX-first software** with a bias for **shipping**, **auditability**, and **systems that compound**.
 I like designing architecture, making real tradeoffs, and using AI tooling to iterate fast.
 
-**Stack:** RedwoodSDK · Cloudflare (Workers / DO / KV / R2) · TypeScript · shadcn/ui · Tailwind
+**Preferred Stack:** [RedwoodSDK](https://docs.rwsdk.com) · Cloudflare (Workers / DO / KV / R2) · TypeScript · shadcn/ui · Tailwind
 
 ---
-
-### What I’m building lately
-
-* **Agent-native tooling** where *files are the UI* and output is **traceable** (logs → artifacts → proof).
-* **Replatforming + hardening** apps: auth, routing, streaming UX, CI/security, deployment.
-* **Branching interfaces** for thinking/problem-solving (humans don’t think linearly).
-
----
-
-### Proof (start here)
 
 | Project                                                                   | What it is                                                                                                                             |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
