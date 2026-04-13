@@ -16,6 +16,7 @@ I like designing architecture, making real tradeoffs, and using AI tooling to it
 
 | Project                                                                   | What it is                                                                                                                             |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| [**sense-1-workspace**](https://github.com/georgestander/sense-1-workspace)     | Open-source desktop AI workspace built on Codex app server. Plugins, skills, MCP servers, automations — local-first.
 | [**redChatHeavy**](https://github.com/georgestander/redChatHeavy)         | Chat app replatformed from Next.js/Vercel → **RedwoodSDK on Cloudflare** (DO/KV/R2). Built to preserve routes, auth, and streaming UX. |
 | [**branch-Chat**](https://github.com/georgestander/branch-Chat)           | Highlight any output and branch it into a new thread — a thinking interface, not a chat interface.                                     |
 | [**prodex-files**](https://github.com/georgestander/prodex-files)         | Minimalist “agent OS”: files as UI + source of truth, built on Codex CLI.                                                              |
